@@ -1,13 +1,12 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: MarzApps NFTs
+author: marzapps
+email: support@marzapps.com
 description: > # this means to ignore newlines until "twitter_username:"
-  Write an awesome description for your new site here. You can edit this line in _config.yml. It will
-  appear in your document head meta (for Google search results) and in your feed.xml site description.
+  Awesome NFTs for sale!
 
 # social links
-twitter_username: mathmakesart
-github_username:  mathmakesart
+twitter_username: marzapps
+github_username:  marzapps
 rss: rss
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -19,8 +18,8 @@ rss: rss
 # googleplus_username: +jekyll
 
 # Cryptocurrency Related
-crypto_address_xtz: "tz1yourAddressHere"
-hicetnunc_profile_url: "https://www.hicetnunc.xyz/tz/tz1yourAddressHere"
+crypto_address_xtz: "tz1UGcoyfZj3QaKkLXuQSXgBA7urSBjDDvXe"
+hicetnunc_profile_url: "https://www.hicetnunc.xyz/tz/tz1UGcoyfZj3QaKkLXuQSXgBA7urSBjDDvXe"
 
 # Collections
 collections:
